@@ -1,4 +1,8 @@
 _repo: Fundamenta-Krestomatio_8224
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Zamenhof, L. L. (Ludwik Lejzer)
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3934
     wikipedia: http://en.wikipedia.org/wiki/L._L._Zamenhof
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8224#Fundamenta-Krestomatio
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2005-06-01'
 gutenberg_type: Text
